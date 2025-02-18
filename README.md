@@ -29,7 +29,7 @@ custom_ide_workflow/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourGitHubUsername/custom-ide-workflow.git
+   git clone https://github.com/chakravartiraj/custom-ide-workflow.git
 
 2. **Read the Guide:**
    ```bash
